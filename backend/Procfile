@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT log_mount_3865.wsgi:application
